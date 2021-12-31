@@ -60,39 +60,115 @@ body {
   padding: 90px;
   text-align: center;
 }
-#content5{
-    display: none;
+#content5 {
+  display: none;
 }
-#dev-content{
-    display: none;
+#dev-content {
+  display: none;
 }
-#prod-content{
-    display: none;
+#prod-content {
+  display: none;
 }
-.portfolio h5{
-    text-align: center;
+.portfolio h5 {
+  text-align: center;
 }
-.portfolio{
-    margin-left: 10px;
-    margin-right: 15px;
+.portfolio {
+  margin-left: 10px;
+  margin-right: 15px;
 }
-.contact h5{
-    text-align: center;
-    color: #fff;
+.contact h5 {
+  text-align: center;
+  color: #fff;
 }
-.contact input[type="text"]{
-    border-bottom: 1px solid #fff;
-    background: transparent;
-    outline: none;
-    height: 40px;
-    color: #fff;
-    font-size: 16px;
+.contact input[type="text"] {
+  border-bottom: 1px solid #fff;
+  background: transparent;
+  outline: none;
+  height: 40px;
+  color: #fff;
+  font-size: 16px;
 }
-.contact input[type="email"]{
-    border-bottom: 1px solid #fff;
-    background: transparent;
-    outline: none;
-    height: 40px;
-    color: #fff;
-    font-size: 16px;
+.contact input[type="email"] {
+  border-bottom: 1px solid #fff;
+  background: transparent;
+  outline: none;
+  height: 40px;
+  color: #fff;
+  font-size: 16px;
+}
+.put {
+  text-align: center;
+}
+::placeholder {
+  color: white;
+}
+#message {
+  margin-left: 120px;
+}
+.end {
+  text-align: center;
+}
+.icon {
+  margin-left: 270px;
+}
+textarea {
+  background: transparent;
+  color: #fff;
+}
+#text1 {
+  display: none;
+  position: absolute;
+  top: 20%;
+  left: 10%;
+  height: 100;
+  color: #fff;
+}
+#text2 {
+  display: none;
+  position: absolute;
+  top: 21%;
+  left: 10%;
+  height: 100;
+}
+#text3 {
+  display: none;
+  position: absolute;
+  top: 20%;
+  left: 10%;
+  height: 100;
+}
+#text4 {
+  display: none;
+  position: absolute;
+  top: 20%;
+  left: 10%;
+  height: 100;
+}
+#text5 {
+  display: none;
+  position: absolute;
+  top: 20%;
+  left: 10%;
+  height: 100;
+}
+#text6 {
+  display: none;
+  position: absolute;
+  top: 20%;
+  left: 10%;
+  height: 100;
+}
+#text7 {
+  display: none;
+  position: absolute;
+  top: 20%;
+  left: 10%;
+  height: 100;
+}
+#text8 {
+  display: none;
+  position: absolute;
+  top: 20%;
+  left: 10%;
+  height: 100;
 }
