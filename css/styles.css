@@ -172,3 +172,6 @@ textarea {
   left: 10%;
   height: 100;
 }
+.fade{
+    opacity: 0;
+}
