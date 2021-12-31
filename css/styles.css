@@ -24,3 +24,15 @@ body {
   margin-top: 10px;
   font-size: 120%;
 }
+.mouse{
+    margin-top: 80px;
+}
+.logo{
+    margin-top: 10px; 
+}
+.writing{
+    text-align: center;
+}
+.writing p{
+    font-size: 80%;
+}
