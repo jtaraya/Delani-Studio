@@ -5,7 +5,7 @@ body {
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 .back {
-  background-image: url(../css/h_img.jpg);
+  background-image: url(../assets/backgrounds/h_img.jpg);
   background-size: 100%;
   background-repeat: no-repeat;
   height: 600px;
@@ -172,6 +172,6 @@ textarea {
   left: 10%;
   height: 100;
 }
-.fade{
-    opacity: 1;
+.fade {
+  opacity: 1;
 }
