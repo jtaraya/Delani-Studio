@@ -22,7 +22,7 @@ The online web app is basically a web page designed using html, css, jquery and 
 *JavaScript
 *jquery
 ## Support and contact details
-{If they run into any issues or have questions, ideas or concerns email me @ jacobtaraya@gmail.com or make a contribution to the code by clonning https://jtaraya.github.io/Delani-Studio/}
+{If they run into any issues or have questions, ideas or concerns email me @ jacobtaraya@gmail.com or make a contribution to the code by clonning https://jtaraya.github.io/Delani-Studio/
 ### License
 *{Visual Studio Code Version 1.62 Free for private or commercial use Built on open source. Runs everywhere. By using VS Code, you agree to its license and privacy statement.Git is released under the GNU General Public License version 2.0, which is an open source license..}*
 Copyright (c) {2022} **{Jacob Taraya}**
