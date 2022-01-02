@@ -1,7 +1,6 @@
 # Delani-Studio
 Delani studio -what they do and some of the projects
 #### {Delani Studio by Jacob Taraya}, {02-01-2022}
-#### By **{Jacob Taraya}**
 ## Description
 Open below link on any browser.
 https://jtaraya.github.io/Delani-Studio/
